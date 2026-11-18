@@ -1,5 +1,5 @@
 context:
-  version: "0.25.1"
+  version: "0.25.2"
 
 package:
   name: numa
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/razvandimescu/numa/archive/v${{ version }}.tar.gz
-  sha256: 9b80a917f8d460534fae55b8d59b99bfc680632f9ec18bacbb0a6c9b2af8f147
+  sha256: b2013b0eabd08de21bd2d7430fe59660d3744952446228f3dc746fc66b9d26bc
 
 build:
   number: 0
